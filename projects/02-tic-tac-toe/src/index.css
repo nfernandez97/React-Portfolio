@@ -126,6 +126,7 @@ body {
   border-radius: 5px;
   display: grid;
   place-items: center;
+  justify-content: center;
   cursor: pointer;
   font-size: 48px;
 }
